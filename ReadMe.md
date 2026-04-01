@@ -17,6 +17,14 @@ Este projeto tem como objetivo o desenvolvimento de um **sistema de suporte téc
 
 O sistema é composto por **três plataformas distintas** (Mobile, Desktop e Web), todas integradas a uma **API central**, formando um único ecossistema unificado.
 
+### 👨‍💻 Minha participação
+
+- Participação no desenvolvimento do sistema
+- Apoio na implementação de funcionalidades
+- Colaboração na organização do projeto
+- Trabalho em equipe durante o desenvolvimento
+
+---
 
 ### 🚀 Status Atual do Projeto
 - ✅ **API Centralizada (.NET 8)** - Implementada e funcional
